@@ -1,25 +1,25 @@
 {
   "metadata": {
     "source": "www.cicarudeclan.com",
-    "scraped_at": "2026-09-20 00:02:00",
+    "scraped_at": "2026-09-19 23:59:19",
     "total_canyons": 329,
     "countries": [
-      "reunion",
-      "corsica",
-      "turchia",
-      "oman",
-      "maiorca",
-      "francia",
-      "spagna",
-      "grecia",
+      "giordania",
       "italia",
-      "montenegro",
       "austria",
-      "madeira",
-      "svizzera",
+      "grecia",
       "slovenia",
+      "reunion",
+      "maiorca",
+      "corsica",
+      "montenegro",
+      "oman",
+      "turchia",
+      "svizzera",
+      "francia",
       "costarica",
-      "giordania"
+      "madeira",
+      "spagna"
     ]
   },
   "canyons": [
@@ -49,7 +49,7 @@
         "https://www.cicarudeclan.com/galleria/barbaira03.jpg"
       ],
       "kmz_url": "https://www.cicarudeclan.com/GEarth/Rio Barbaira.kmz",
-      "scraped_at": "2026-09-19 23:59:58"
+      "scraped_at": "2026-09-19 23:57:18"
     },
     {
       "nome": "Gola di Buggio",
@@ -76,7 +76,7 @@
         "https://www.cicarudeclan.com/galleria/Buggio02.jpg"
       ],
       "kmz_url": "https://www.cicarudeclan.com/GEarth/Gole di Buggio.kmz",
-      "scraped_at": "2026-09-19 23:59:59"
+      "scraped_at": "2026-09-19 23:57:18"
     },
     {
       "nome": "Rio Infernetto",
@@ -104,7 +104,7 @@
         "https://www.cicarudeclan.com/galleria/Infernetto22.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-19 23:59:59"
+      "scraped_at": "2026-09-19 23:57:19"
     },
     {
       "nome": "Torrente Argentina",
@@ -132,7 +132,7 @@
         "https://www.cicarudeclan.com/galleria/Argentina05.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-19 23:59:59"
+      "scraped_at": "2026-09-19 23:57:19"
     },
     {
       "nome": "Rio Grognardo",
@@ -160,7 +160,7 @@
         "https://www.cicarudeclan.com/galleria/Grognardo03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:00"
+      "scraped_at": "2026-09-19 23:57:19"
     },
     {
       "nome": "Rio Santa Lucia",
@@ -187,7 +187,7 @@
         "https://www.cicarudeclan.com/galleria/SantaLucia02.jpg"
       ],
       "kmz_url": "https://www.cicarudeclan.com/GEarth/Rio Santa Lucia.kmz",
-      "scraped_at": "2026-09-20 00:00:00"
+      "scraped_at": "2026-09-19 23:57:20"
     },
     {
       "nome": "Cascate dell'Arroscia (Rio Passetto)",
@@ -211,7 +211,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:00"
+      "scraped_at": "2026-09-19 23:57:20"
     },
     {
       "nome": "Rio Ferraia",
@@ -239,7 +239,7 @@
         "https://www.cicarudeclan.com/galleria/Ferraia03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:01"
+      "scraped_at": "2026-09-19 23:57:20"
     },
     {
       "nome": "Torrente Sansobbia",
@@ -269,7 +269,7 @@
         "https://www.cicarudeclan.com/galleria/Sansobbia05.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:01"
+      "scraped_at": "2026-09-19 23:57:21"
     },
     {
       "nome": "Rio Prialunga",
@@ -297,7 +297,7 @@
         "https://www.cicarudeclan.com/galleria/Prialunga03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:01"
+      "scraped_at": "2026-09-19 23:57:21"
     },
     {
       "nome": "Rio Uomo Morto",
@@ -321,7 +321,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:02"
+      "scraped_at": "2026-09-19 23:57:21"
     },
     {
       "nome": "Rio Lerca",
@@ -349,7 +349,7 @@
         "https://www.cicarudeclan.com/galleria/Lerca03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:02"
+      "scraped_at": "2026-09-19 23:57:22"
     },
     {
       "nome": "Valle Scura - Rio Carbonea",
@@ -379,7 +379,7 @@
         "https://www.cicarudeclan.com/galleria/ValleScuraCarbonea05.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:03"
+      "scraped_at": "2026-09-19 23:57:22"
     },
     {
       "nome": "Rio l'Erbin",
@@ -407,7 +407,7 @@
         "https://www.cicarudeclan.com/galleria/Erbin03.JPG"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:03"
+      "scraped_at": "2026-09-19 23:57:23"
     },
     {
       "nome": "Gias delle Vacche (Rio Agugea)",
@@ -437,7 +437,7 @@
         "https://www.cicarudeclan.com/galleria/GiasVacche05.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:03"
+      "scraped_at": "2026-09-19 23:57:23"
     },
     {
       "nome": "Rio Lerone",
@@ -467,7 +467,7 @@
         "https://www.cicarudeclan.com/galleria/Lerone05.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:04"
+      "scraped_at": "2026-09-19 23:57:23"
     },
     {
       "nome": "Cu du Mundu",
@@ -495,7 +495,7 @@
         "https://www.cicarudeclan.com/galleria/Cudumundu03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:04"
+      "scraped_at": "2026-09-19 23:57:24"
     },
     {
       "nome": "Cu du Mundu Alto",
@@ -523,7 +523,7 @@
         "https://www.cicarudeclan.com/galleria/Cudumundualto03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:04"
+      "scraped_at": "2026-09-19 23:57:24"
     },
     {
       "nome": "Rio dei Guadi - Rio Negrone",
@@ -553,7 +553,7 @@
         "https://www.cicarudeclan.com/galleria/guadi05.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:05"
+      "scraped_at": "2026-09-19 23:57:24"
     },
     {
       "nome": "Rio Leone",
@@ -577,7 +577,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:05"
+      "scraped_at": "2026-09-19 23:57:25"
     },
     {
       "nome": "Rio Secco",
@@ -607,7 +607,7 @@
         "https://www.cicarudeclan.com/galleria/Secco05.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:05"
+      "scraped_at": "2026-09-19 23:57:25"
     },
     {
       "nome": "Rio Vaccapendi",
@@ -635,7 +635,7 @@
         "https://www.cicarudeclan.com/galleria/Vaccapendi03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:06"
+      "scraped_at": "2026-09-19 23:57:25"
     },
     {
       "nome": "Rio Malanotte - Rio Gava",
@@ -665,7 +665,7 @@
         "https://www.cicarudeclan.com/galleria/MalanotteGava05.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:06"
+      "scraped_at": "2026-09-19 23:57:26"
     },
     {
       "nome": "Rio Gava Levante inferiore",
@@ -693,7 +693,7 @@
         "https://www.cicarudeclan.com/galleria/GavaLevante03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:06"
+      "scraped_at": "2026-09-19 23:57:26"
     },
     {
       "nome": "Rio Gardonea - Rio dell'Orso",
@@ -723,7 +723,7 @@
         "https://www.cicarudeclan.com/galleria/GardoneaOrso05.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:07"
+      "scraped_at": "2026-09-19 23:57:26"
     },
     {
       "nome": "Rio del Dente",
@@ -751,7 +751,7 @@
         "https://www.cicarudeclan.com/galleria/Dente03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:07"
+      "scraped_at": "2026-09-19 23:57:27"
     },
     {
       "nome": "Rio Battilana",
@@ -779,7 +779,7 @@
         "https://www.cicarudeclan.com/galleria/Battilana03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:07"
+      "scraped_at": "2026-09-19 23:57:27"
     },
     {
       "nome": "Rio Ase Mortu",
@@ -807,7 +807,7 @@
         "https://www.cicarudeclan.com/galleria/AseMortu03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:08"
+      "scraped_at": "2026-09-19 23:57:28"
     },
     {
       "nome": "Rio delle Gave - Cerusa",
@@ -837,7 +837,7 @@
         "https://www.cicarudeclan.com/galleria/gave05.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:08"
+      "scraped_at": "2026-09-19 23:57:28"
     },
     {
       "nome": "Cascate del Serpente (Torrente Masone)",
@@ -861,7 +861,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:08"
+      "scraped_at": "2026-09-19 23:57:28"
     },
     {
       "nome": "Rio Creverino",
@@ -889,7 +889,7 @@
         "https://www.cicarudeclan.com/galleria/Creverino35.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:09"
+      "scraped_at": "2026-09-19 23:57:29"
     },
     {
       "nome": "Rio di Tonno",
@@ -913,7 +913,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:09"
+      "scraped_at": "2026-09-19 23:57:29"
     },
     {
       "nome": "Rio Martino",
@@ -943,7 +943,7 @@
         "https://www.cicarudeclan.com/galleria/Martino05.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:09"
+      "scraped_at": "2026-09-19 23:57:29"
     },
     {
       "nome": "Rio Gandolfi",
@@ -967,7 +967,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:10"
+      "scraped_at": "2026-09-19 23:57:30"
     },
     {
       "nome": "Rio Torbido",
@@ -991,7 +991,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:10"
+      "scraped_at": "2026-09-19 23:57:30"
     },
     {
       "nome": "Fosso dei Ronchi (ramo sx)",
@@ -1021,7 +1021,7 @@
         "https://www.cicarudeclan.com/galleria/RonchiCanate05.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:11"
+      "scraped_at": "2026-09-19 23:57:30"
     },
     {
       "nome": "Rio Pomà",
@@ -1049,7 +1049,7 @@
         "https://www.cicarudeclan.com/galleria/Poma03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:11"
+      "scraped_at": "2026-09-19 23:57:31"
     },
     {
       "nome": "Rio Orsiggia dell'Arma",
@@ -1079,7 +1079,7 @@
         "https://www.cicarudeclan.com/galleria/orsiggia05.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:11"
+      "scraped_at": "2026-09-19 23:57:31"
     },
     {
       "nome": "Torrente Nervi",
@@ -1107,7 +1107,7 @@
         "https://www.cicarudeclan.com/galleria/nervi03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:12"
+      "scraped_at": "2026-09-19 23:57:31"
     },
     {
       "nome": "Rio Branega",
@@ -1135,7 +1135,7 @@
         "https://www.cicarudeclan.com/galleria/branega03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:12"
+      "scraped_at": "2026-09-19 23:57:32"
     },
     {
       "nome": "Rio Poggio",
@@ -1163,7 +1163,7 @@
         "https://www.cicarudeclan.com/galleria/Poggio03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:12"
+      "scraped_at": "2026-09-19 23:57:32"
     },
     {
       "nome": "Rio del Collo",
@@ -1187,7 +1187,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:13"
+      "scraped_at": "2026-09-19 23:57:32"
     },
     {
       "nome": "Rio del Ronchi",
@@ -1211,7 +1211,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:13"
+      "scraped_at": "2026-09-19 23:57:33"
     },
     {
       "nome": "Fosso del Molinello",
@@ -1235,7 +1235,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:13"
+      "scraped_at": "2026-09-19 23:57:33"
     },
     {
       "nome": "Fosso di Arena",
@@ -1259,7 +1259,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:14"
+      "scraped_at": "2026-09-19 23:57:34"
     },
     {
       "nome": "Fosso della Braia",
@@ -1289,7 +1289,7 @@
         "https://www.cicarudeclan.com/galleria/Braia05.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:14"
+      "scraped_at": "2026-09-19 23:57:34"
     },
     {
       "nome": "Torrente Rissuello",
@@ -1319,7 +1319,7 @@
         "https://www.cicarudeclan.com/galleria/Rissuello05.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:14"
+      "scraped_at": "2026-09-19 23:57:34"
     },
     {
       "nome": "Fosso Poragine",
@@ -1347,7 +1347,7 @@
         "https://www.cicarudeclan.com/galleria/poragine03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:15"
+      "scraped_at": "2026-09-19 23:57:35"
     },
     {
       "nome": "Fosso Ceresole",
@@ -1374,7 +1374,7 @@
         "https://www.cicarudeclan.com/galleria/ceresole02.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:15"
+      "scraped_at": "2026-09-19 23:57:35"
     },
     {
       "nome": "Cascata del Ceresole Superiore",
@@ -1402,7 +1402,7 @@
         "https://www.cicarudeclan.com/galleria/CascataCeresole03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:15"
+      "scraped_at": "2026-09-19 23:57:35"
     },
     {
       "nome": "Rio Calandrino Superiore",
@@ -1430,7 +1430,7 @@
         "https://www.cicarudeclan.com/galleria/CalandrinoSup03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:16"
+      "scraped_at": "2026-09-19 23:57:36"
     },
     {
       "nome": "Rio Calandrino Inferiore",
@@ -1458,7 +1458,7 @@
         "https://www.cicarudeclan.com/galleria/Calandrino03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:16"
+      "scraped_at": "2026-09-19 23:57:36"
     },
     {
       "nome": "Rio Novelli",
@@ -1484,7 +1484,7 @@
         "https://www.cicarudeclan.com/galleria/Novelli1.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:16"
+      "scraped_at": "2026-09-19 23:57:36"
     },
     {
       "nome": "Rio di Statale",
@@ -1512,7 +1512,7 @@
         "https://www.cicarudeclan.com/galleria/Statale03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:17"
+      "scraped_at": "2026-09-19 23:57:37"
     },
     {
       "nome": "Torrente Reppia",
@@ -1536,7 +1536,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:17"
+      "scraped_at": "2026-09-19 23:57:37"
     },
     {
       "nome": "Rio Bargonasco",
@@ -1564,7 +1564,7 @@
         "https://www.cicarudeclan.com/galleria/Bargonasco03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:18"
+      "scraped_at": "2026-09-19 23:57:37"
     },
     {
       "nome": "Rio della Cantoniera",
@@ -1590,7 +1590,7 @@
         "https://www.cicarudeclan.com/galleria/Cantoniera01.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:18"
+      "scraped_at": "2026-09-19 23:57:38"
     },
     {
       "nome": "Rio San Giorgio",
@@ -1614,7 +1614,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:18"
+      "scraped_at": "2026-09-19 23:57:38"
     },
     {
       "nome": "Torrente San Giorgio",
@@ -1638,7 +1638,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:19"
+      "scraped_at": "2026-09-19 23:57:39"
     },
     {
       "nome": "Rio di Vandarecca",
@@ -1662,7 +1662,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:19"
+      "scraped_at": "2026-09-19 23:57:39"
     },
     {
       "nome": "Torrente Adelano - Gottero",
@@ -1690,7 +1690,7 @@
         "https://www.cicarudeclan.com/galleria/Adelano03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:19"
+      "scraped_at": "2026-09-19 23:57:39"
     },
     {
       "nome": "Rio Chiusola - Torrente Gottero",
@@ -1714,7 +1714,7 @@
       "note": "la forra in realtà continua per circa 15' con un'altra calatina di 3 metri \n\n    e qualche risalto non armato, in un bell'ambiente. Il problema è che, raggiunto il ponte della strada provinciale (30 metri più in alto), non ci sono vie di uscita semplici\n\n    e occorre un'altra ora di marcia sul greto per arrivare al primo punto di uscita semplice, in riva sinistra.",
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:20"
+      "scraped_at": "2026-09-19 23:57:40"
     },
     {
       "nome": "Torrente Chalamy",
@@ -1742,7 +1742,7 @@
         "https://www.cicarudeclan.com/galleria/Chalamy03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:20"
+      "scraped_at": "2026-09-19 23:57:40"
     },
     {
       "nome": "Gettaz",
@@ -1768,7 +1768,7 @@
         "https://www.cicarudeclan.com/galleria/Gettaz35.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:20"
+      "scraped_at": "2026-09-19 23:57:40"
     },
     {
       "nome": "Torrente Brenve",
@@ -1796,7 +1796,7 @@
         "https://www.cicarudeclan.com/galleria/brenve03.jpg"
       ],
       "kmz_url": "https://www.cicarudeclan.com/GEarth/Torrente%20Brenve.kmz",
-      "scraped_at": "2026-09-20 00:00:21"
+      "scraped_at": "2026-09-19 23:57:41"
     },
     {
       "nome": "Torrente Bouro",
@@ -1820,7 +1820,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:21"
+      "scraped_at": "2026-09-19 23:57:41"
     },
     {
       "nome": "Gole del Sorba",
@@ -1844,7 +1844,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:21"
+      "scraped_at": "2026-09-19 23:57:41"
     },
     {
       "nome": "Rio del Laghetto",
@@ -1868,7 +1868,7 @@
       "note": "si ringrazia Paolo Testa per gli aggiornamenti alla scheda.",
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:22"
+      "scraped_at": "2026-09-19 23:57:42"
     },
     {
       "nome": "Valle Artogna",
@@ -1892,7 +1892,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:22"
+      "scraped_at": "2026-09-19 23:57:42"
     },
     {
       "nome": "Rio Rasiga",
@@ -1919,7 +1919,7 @@
         "https://www.cicarudeclan.com/galleria/Foresto02.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:22"
+      "scraped_at": "2026-09-19 23:57:42"
     },
     {
       "nome": "Rio Sessi",
@@ -1945,7 +1945,7 @@
         "https://www.cicarudeclan.com/galleria/Sessi01.jpg"
       ],
       "kmz_url": "https://www.cicarudeclan.com/GEarth/Rio Sessi.kmz",
-      "scraped_at": "2026-09-20 00:00:23"
+      "scraped_at": "2026-09-19 23:57:43"
     },
     {
       "nome": "Rio Claretto Inferiore",
@@ -1975,7 +1975,7 @@
         "https://www.cicarudeclan.com/galleria/Claretto05.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:23"
+      "scraped_at": "2026-09-19 23:57:43"
     },
     {
       "nome": "Rio Claretto Superiore",
@@ -2005,7 +2005,7 @@
         "https://www.cicarudeclan.com/galleria/ClarettoSup05.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:23"
+      "scraped_at": "2026-09-19 23:57:43"
     },
     {
       "nome": "Rio Marderello",
@@ -2029,7 +2029,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:24"
+      "scraped_at": "2026-09-19 23:57:44"
     },
     {
       "nome": "Rio Seguret",
@@ -2057,7 +2057,7 @@
         "https://www.cicarudeclan.com/galleria/Seguret03.jpg"
       ],
       "kmz_url": "https://www.cicarudeclan.com/GEarth/Rio Seguret.kmz",
-      "scraped_at": "2026-09-20 00:00:24"
+      "scraped_at": "2026-09-19 23:57:44"
     },
     {
       "nome": "Rio Bianco",
@@ -2085,7 +2085,7 @@
         "https://www.cicarudeclan.com/galleria/Bianco03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:25"
+      "scraped_at": "2026-09-19 23:57:44"
     },
     {
       "nome": "Cascata delle Barricate",
@@ -2109,7 +2109,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:25"
+      "scraped_at": "2026-09-19 23:57:45"
     },
     {
       "nome": "Rio di Crealla",
@@ -2139,7 +2139,7 @@
         "https://www.cicarudeclan.com/galleria/Crealla05.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:25"
+      "scraped_at": "2026-09-19 23:57:45"
     },
     {
       "nome": "Orrido di Sant'Anna",
@@ -2163,7 +2163,7 @@
       "note": "in caso di\n    portate eccessive la discesa è particolarmente pericolosa data l'impossibilità di tenere\n    sotto controllo la situazione; in condizioni di normale portata, con poche attenzioni, il\n    divertimento è assicurato.",
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:26"
+      "scraped_at": "2026-09-19 23:57:45"
     },
     {
       "nome": "Rio Marona",
@@ -2187,7 +2187,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:26"
+      "scraped_at": "2026-09-19 23:57:46"
     },
     {
       "nome": "Rio Mondelli",
@@ -2215,7 +2215,7 @@
         "https://www.cicarudeclan.com/galleria/Mondelli03.jpg"
       ],
       "kmz_url": "https://www.cicarudeclan.com/GEarth/Rio Mondelli.kmz",
-      "scraped_at": "2026-09-20 00:00:26"
+      "scraped_at": "2026-09-19 23:57:46"
     },
     {
       "nome": "Cascate di Prequartera",
@@ -2243,7 +2243,7 @@
         "https://www.cicarudeclan.com/galleria/Prequartera03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:27"
+      "scraped_at": "2026-09-19 23:57:47"
     },
     {
       "nome": "Val Moriana",
@@ -2273,7 +2273,7 @@
         "https://www.cicarudeclan.com/galleria/Moriana05.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:27"
+      "scraped_at": "2026-09-19 23:57:47"
     },
     {
       "nome": "Rio Lasino",
@@ -2301,7 +2301,7 @@
         "https://www.cicarudeclan.com/galleria/Lasino03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:27"
+      "scraped_at": "2026-09-19 23:57:47"
     },
     {
       "nome": "Torrente Croto (Rio Rosso)",
@@ -2325,7 +2325,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:28"
+      "scraped_at": "2026-09-19 23:57:48"
     },
     {
       "nome": "Val Bianca",
@@ -2353,7 +2353,7 @@
         "https://www.cicarudeclan.com/galleria/Bianca30.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:28"
+      "scraped_at": "2026-09-19 23:57:48"
     },
     {
       "nome": "Rio di Gulo",
@@ -2381,7 +2381,7 @@
         "https://www.cicarudeclan.com/galleria/Gulo03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:29"
+      "scraped_at": "2026-09-19 23:57:48"
     },
     {
       "nome": "Rio Rasiga",
@@ -2409,7 +2409,7 @@
         "https://www.cicarudeclan.com/galleria/Rasiga03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:29"
+      "scraped_at": "2026-09-19 23:57:49"
     },
     {
       "nome": "Rio Variola Inferiore",
@@ -2437,7 +2437,7 @@
         "https://www.cicarudeclan.com/galleria/Variola03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:29"
+      "scraped_at": "2026-09-19 23:57:49"
     },
     {
       "nome": "Rio Variola Superiore",
@@ -2465,7 +2465,7 @@
         "https://www.cicarudeclan.com/galleria/VariolaSup03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:30"
+      "scraped_at": "2026-09-19 23:57:49"
     },
     {
       "nome": "Rio della Valletta",
@@ -2489,7 +2489,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:30"
+      "scraped_at": "2026-09-19 23:57:50"
     },
     {
       "nome": "Rio Deseno Inferiore",
@@ -2513,7 +2513,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:31"
+      "scraped_at": "2026-09-19 23:57:50"
     },
     {
       "nome": "Rio Antolina",
@@ -2541,7 +2541,7 @@
         "https://www.cicarudeclan.com/galleria/antolina03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:31"
+      "scraped_at": "2026-09-19 23:57:50"
     },
     {
       "nome": "Rio d'Alba",
@@ -2565,7 +2565,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:31"
+      "scraped_at": "2026-09-19 23:57:51"
     },
     {
       "nome": "Rio degli Orti",
@@ -2595,7 +2595,7 @@
         "https://www.cicarudeclan.com/galleria/Orti05.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:32"
+      "scraped_at": "2026-09-19 23:57:51"
     },
     {
       "nome": "Rio d'Antin",
@@ -2625,7 +2625,7 @@
         "https://www.cicarudeclan.com/galleria/Antin05.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:32"
+      "scraped_at": "2026-09-19 23:57:51"
     },
     {
       "nome": "Rio Usella",
@@ -2653,7 +2653,7 @@
         "https://www.cicarudeclan.com/galleria/Usella03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:32"
+      "scraped_at": "2026-09-19 23:57:52"
     },
     {
       "nome": "Rio Fruetta",
@@ -2683,7 +2683,7 @@
         "https://www.cicarudeclan.com/galleria/fruetta05.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:33"
+      "scraped_at": "2026-09-19 23:57:52"
     },
     {
       "nome": "Rio Fiume",
@@ -2711,7 +2711,7 @@
         "https://www.cicarudeclan.com/galleria/fiume03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:33"
+      "scraped_at": "2026-09-19 23:57:52"
     },
     {
       "nome": "Valle Isorno Inferiore",
@@ -2739,7 +2739,7 @@
         "https://www.cicarudeclan.com/galleria/isornoinf03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:33"
+      "scraped_at": "2026-09-19 23:57:53"
     },
     {
       "nome": "Rio Antoliva",
@@ -2763,7 +2763,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:34"
+      "scraped_at": "2026-09-19 23:57:53"
     },
     {
       "nome": "Ogliana di Beura (Rio delle Rovine)",
@@ -2791,7 +2791,7 @@
         "https://www.cicarudeclan.com/galleria/Rovine03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:34"
+      "scraped_at": "2026-09-19 23:57:53"
     },
     {
       "nome": "Ogliana di Quarata",
@@ -2819,7 +2819,7 @@
         "https://www.cicarudeclan.com/galleria/Ogliana073.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:34"
+      "scraped_at": "2026-09-19 23:57:54"
     },
     {
       "nome": "Rio di Prata",
@@ -2847,7 +2847,7 @@
         "https://www.cicarudeclan.com/galleria/Prata086.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:35"
+      "scraped_at": "2026-09-19 23:57:54"
     },
     {
       "nome": "Rio del Ponte",
@@ -2871,7 +2871,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:35"
+      "scraped_at": "2026-09-19 23:57:54"
     },
     {
       "nome": "Rio Dresio",
@@ -2895,7 +2895,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:35"
+      "scraped_at": "2026-09-19 23:57:55"
     },
     {
       "nome": "Le Vene del Tanaro",
@@ -2923,7 +2923,7 @@
         "https://www.cicarudeclan.com/galleria/Vene03.JPG"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:36"
+      "scraped_at": "2026-09-19 23:57:55"
     },
     {
       "nome": "Rio di Prale",
@@ -2951,7 +2951,7 @@
         "https://www.cicarudeclan.com/galleria/Prale03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:36"
+      "scraped_at": "2026-09-19 23:57:56"
     },
     {
       "nome": "Rio Lavagetta",
@@ -2975,7 +2975,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:36"
+      "scraped_at": "2026-09-19 23:57:56"
     },
     {
       "nome": "Torrente Ponzema",
@@ -2999,7 +2999,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:37"
+      "scraped_at": "2026-09-19 23:57:56"
     },
     {
       "nome": "Rio Acquestriate",
@@ -3029,7 +3029,7 @@
         "https://www.cicarudeclan.com/galleria/acquestriate05.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:37"
+      "scraped_at": "2026-09-19 23:57:57"
     },
     {
       "nome": "Cascate di Cittiglio",
@@ -3056,7 +3056,7 @@
         "https://www.cicarudeclan.com/galleria/Cittiglio02.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:37"
+      "scraped_at": "2026-09-19 23:57:57"
     },
     {
       "nome": "Rio Caldone",
@@ -3084,7 +3084,7 @@
         "https://www.cicarudeclan.com/galleria/Caldone03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:38"
+      "scraped_at": "2026-09-19 23:57:57"
     },
     {
       "nome": "Forra di Morterone",
@@ -3110,7 +3110,7 @@
         "https://www.cicarudeclan.com/galleria/Morterone01.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:38"
+      "scraped_at": "2026-09-19 23:57:58"
     },
     {
       "nome": "Valle della Snella (affl. sx Acquaduro)",
@@ -3134,7 +3134,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:38"
+      "scraped_at": "2026-09-19 23:57:58"
     },
     {
       "nome": "Val Monastero",
@@ -3158,7 +3158,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": "https://www.cicarudeclan.com/GEarth/Val di Monastero.kmz",
-      "scraped_at": "2026-09-20 00:00:39"
+      "scraped_at": "2026-09-19 23:57:58"
     },
     {
       "nome": "Torrente Lirone",
@@ -3182,7 +3182,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:39"
+      "scraped_at": "2026-09-19 23:57:59"
     },
     {
       "nome": "Val Camoggia",
@@ -3210,7 +3210,7 @@
         "https://www.cicarudeclan.com/galleria/Camoggia03.JPG"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:40"
+      "scraped_at": "2026-09-19 23:57:59"
     },
     {
       "nome": "Val di Bares",
@@ -3238,7 +3238,7 @@
         "https://www.cicarudeclan.com/galleria/Bares03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:40"
+      "scraped_at": "2026-09-19 23:57:59"
     },
     {
       "nome": "Val Bodengo Superiore",
@@ -3266,7 +3266,7 @@
         "https://www.cicarudeclan.com/galleria/bodengosup03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:40"
+      "scraped_at": "2026-09-19 23:58:00"
     },
     {
       "nome": "Val Bodengo inferiore",
@@ -3294,7 +3294,7 @@
         "https://www.cicarudeclan.com/galleria/Bodengo02.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:41"
+      "scraped_at": "2026-09-19 23:58:00"
     },
     {
       "nome": "Pilotera",
@@ -3322,7 +3322,7 @@
         "https://www.cicarudeclan.com/galleria/Pilotera19.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:41"
+      "scraped_at": "2026-09-19 23:58:00"
     },
     {
       "nome": "Val Casenda",
@@ -3346,7 +3346,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:41"
+      "scraped_at": "2026-09-19 23:58:01"
     },
     {
       "nome": "Torrente Lesina",
@@ -3370,7 +3370,7 @@
       "note": "per informazioni dettagliate sul torrente consultare il sito AIC \n    www.canyoning.it nella sezione dedicata al Progetto Procanyon.",
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:42"
+      "scraped_at": "2026-09-19 23:58:01"
     },
     {
       "nome": "Torrente Cormor",
@@ -3397,7 +3397,7 @@
         "https://www.cicarudeclan.com/galleria/Cormor02.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:42"
+      "scraped_at": "2026-09-19 23:58:02"
     },
     {
       "nome": "Val Malgina",
@@ -3425,7 +3425,7 @@
         "https://www.cicarudeclan.com/galleria/Malgina03.JPG"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:42"
+      "scraped_at": "2026-09-19 23:58:02"
     },
     {
       "nome": "Torrente Trobiolo",
@@ -3453,7 +3453,7 @@
         "https://www.cicarudeclan.com/galleria/trobiolo03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:43"
+      "scraped_at": "2026-09-19 23:58:02"
     },
     {
       "nome": "Torrente Re",
@@ -3481,7 +3481,7 @@
         "https://www.cicarudeclan.com/galleria/Re03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:43"
+      "scraped_at": "2026-09-19 23:58:03"
     },
     {
       "nome": "Torrente Caffaro Alto",
@@ -3505,7 +3505,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:43"
+      "scraped_at": "2026-09-19 23:58:03"
     },
     {
       "nome": "Torrente Campiglio",
@@ -3529,7 +3529,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:44"
+      "scraped_at": "2026-09-19 23:58:03"
     },
     {
       "nome": "Torrente Baes",
@@ -3553,7 +3553,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:44"
+      "scraped_at": "2026-09-19 23:58:04"
     },
     {
       "nome": "Torrente Vione Superiore",
@@ -3577,7 +3577,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:44"
+      "scraped_at": "2026-09-19 23:58:04"
     },
     {
       "nome": "Fiumenero",
@@ -3605,7 +3605,7 @@
         "https://www.cicarudeclan.com/galleria/fiumenero03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:45"
+      "scraped_at": "2026-09-19 23:58:04"
     },
     {
       "nome": "Rio Colombaia",
@@ -3629,7 +3629,7 @@
       "note": "non stupitevi se\n    perdete il sentiero, noi siamo andati molto \"a naso\", l'orientamento non è\n    difficile.",
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:45"
+      "scraped_at": "2026-09-19 23:58:05"
     },
     {
       "nome": "Rio Grande",
@@ -3657,7 +3657,7 @@
         "https://www.cicarudeclan.com/galleria/Grande03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:45"
+      "scraped_at": "2026-09-19 23:58:05"
     },
     {
       "nome": "Canale dei ghiacci",
@@ -3681,7 +3681,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:46"
+      "scraped_at": "2026-09-19 23:58:05"
     },
     {
       "nome": "Rio Rotteri",
@@ -3711,7 +3711,7 @@
         "https://www.cicarudeclan.com/galleria/Rotteri05.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:46"
+      "scraped_at": "2026-09-19 23:58:06"
     },
     {
       "nome": "Canale dell'Incisa",
@@ -3741,7 +3741,7 @@
         "https://www.cicarudeclan.com/galleria/Incisa05.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:47"
+      "scraped_at": "2026-09-19 23:58:06"
     },
     {
       "nome": "Forra del Grigno",
@@ -3767,7 +3767,7 @@
         "https://www.cicarudeclan.com/galleria/Grigno01.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:47"
+      "scraped_at": "2026-09-19 23:58:06"
     },
     {
       "nome": "Palvico",
@@ -3794,7 +3794,7 @@
         "https://www.cicarudeclan.com/galleria/Palvico02.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:47"
+      "scraped_at": "2026-09-19 23:58:07"
     },
     {
       "nome": "Rio Nero",
@@ -3818,7 +3818,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:48"
+      "scraped_at": "2026-09-19 23:58:07"
     },
     {
       "nome": "Torrente Albola",
@@ -3842,7 +3842,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:48"
+      "scraped_at": "2026-09-19 23:58:07"
     },
     {
       "nome": "Rio Val",
@@ -3866,7 +3866,7 @@
       "note": "esiste una parte superiore con 7 calate.",
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:48"
+      "scraped_at": "2026-09-19 23:58:08"
     },
     {
       "nome": "Gorg d'Abiss",
@@ -3890,7 +3890,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:49"
+      "scraped_at": "2026-09-19 23:58:08"
     },
     {
       "nome": "Forra di Gargazzone",
@@ -3918,7 +3918,7 @@
         "https://www.cicarudeclan.com/galleria/Gargazzone03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:49"
+      "scraped_at": "2026-09-19 23:58:08"
     },
     {
       "nome": "Rio Meltina - Möltener Bach",
@@ -3946,7 +3946,7 @@
         "https://www.cicarudeclan.com/galleria/Meltina03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:49"
+      "scraped_at": "2026-09-19 23:58:09"
     },
     {
       "nome": "Vajo dell'Orsa",
@@ -3970,7 +3970,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:50"
+      "scraped_at": "2026-09-19 23:58:09"
     },
     {
       "nome": "Gole del Soffia",
@@ -3996,7 +3996,7 @@
         "https://www.cicarudeclan.com/galleria/Soffia01.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:50"
+      "scraped_at": "2026-09-19 23:58:09"
     },
     {
       "nome": "Val Ru da Molin",
@@ -4020,7 +4020,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:50"
+      "scraped_at": "2026-09-19 23:58:10"
     },
     {
       "nome": "Val Clusa",
@@ -4048,7 +4048,7 @@
         "https://www.cicarudeclan.com/galleria/Clusa06.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:51"
+      "scraped_at": "2026-09-19 23:58:10"
     },
     {
       "nome": "Val Maggiore",
@@ -4074,7 +4074,7 @@
         "https://www.cicarudeclan.com/galleria/Maggiore1.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:51"
+      "scraped_at": "2026-09-19 23:58:11"
     },
     {
       "nome": "Val Zemola",
@@ -4104,7 +4104,7 @@
         "https://www.cicarudeclan.com/galleria/ValZemola05.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:51"
+      "scraped_at": "2026-09-19 23:58:11"
     },
     {
       "nome": "Rio Stuet",
@@ -4128,7 +4128,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:52"
+      "scraped_at": "2026-09-19 23:58:11"
     },
     {
       "nome": "Val Piovin",
@@ -4156,7 +4156,7 @@
         "https://www.cicarudeclan.com/galleria/Piovin03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:52"
+      "scraped_at": "2026-09-19 23:58:12"
     },
     {
       "nome": "Torrente Ciolesan",
@@ -4180,7 +4180,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:52"
+      "scraped_at": "2026-09-19 23:58:12"
     },
     {
       "nome": "Torrente La Foce",
@@ -4204,7 +4204,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:53"
+      "scraped_at": "2026-09-19 23:58:12"
     },
     {
       "nome": "Rio Simon",
@@ -4228,7 +4228,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:53"
+      "scraped_at": "2026-09-19 23:58:13"
     },
     {
       "nome": "Rio Alba",
@@ -4255,7 +4255,7 @@
         "https://www.cicarudeclan.com/galleria/Alba02.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:53"
+      "scraped_at": "2026-09-19 23:58:13"
     },
     {
       "nome": "Rio Tralba (Forra dei boscaioli)",
@@ -4284,7 +4284,7 @@
         "https://www.cicarudeclan.com/galleria/Boscaioli04.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:54"
+      "scraped_at": "2026-09-19 23:58:13"
     },
     {
       "nome": "Rio Chiantone",
@@ -4308,7 +4308,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:54"
+      "scraped_at": "2026-09-19 23:58:14"
     },
     {
       "nome": "Rio Lavarie",
@@ -4335,7 +4335,7 @@
         "https://www.cicarudeclan.com/galleria/Lavarie02.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:55"
+      "scraped_at": "2026-09-19 23:58:14"
     },
     {
       "nome": "Rio Frondizzon",
@@ -4361,7 +4361,7 @@
         "https://www.cicarudeclan.com/galleria/frondizzon01.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:55"
+      "scraped_at": "2026-09-19 23:58:14"
     },
     {
       "nome": "Rio Favarinis",
@@ -4385,7 +4385,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:55"
+      "scraped_at": "2026-09-19 23:58:15"
     },
     {
       "nome": "Rio Chiampeit",
@@ -4409,7 +4409,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:56"
+      "scraped_at": "2026-09-19 23:58:15"
     },
     {
       "nome": "Vinadia Inferiore",
@@ -4433,7 +4433,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:56"
+      "scraped_at": "2026-09-19 23:58:16"
     },
     {
       "nome": "Torrente Acquetta",
@@ -4461,7 +4461,7 @@
         "https://www.cicarudeclan.com/galleria/Acquetta03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:56"
+      "scraped_at": "2026-09-19 23:58:16"
     },
     {
       "nome": "Stretti di Giaredo",
@@ -4489,7 +4489,7 @@
         "https://www.cicarudeclan.com/galleria/Giaredo03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:57"
+      "scraped_at": "2026-09-19 23:58:16"
     },
     {
       "nome": "Orrido di Botri (ramo Est - Rio Ribellino)",
@@ -4513,7 +4513,7 @@
       "note": "per percorrere l'orrido, sia in salita che in discesa, è necessario richiedere preventivamente \nil permesso alla Riserva Naturale(biglietto 3 euro)",
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:57"
+      "scraped_at": "2026-09-19 23:58:17"
     },
     {
       "nome": "Orrido di Botri (ramo Ovest - Rio Mariana)",
@@ -4537,7 +4537,7 @@
       "note": "per percorrere l'orrido, sia in salita che in discesa, è necessario richiedere preventivamente \nil permesso alla Riserva Naturale(biglietto 3 euro)",
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:57"
+      "scraped_at": "2026-09-19 23:58:17"
     },
     {
       "nome": "Rio delle Pili",
@@ -4564,7 +4564,7 @@
         "https://www.cicarudeclan.com/galleria/Pili06.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:58"
+      "scraped_at": "2026-09-19 23:58:17"
     },
     {
       "nome": "Torrente Ania",
@@ -4592,7 +4592,7 @@
         "https://www.cicarudeclan.com/galleria/Ania03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:58"
+      "scraped_at": "2026-09-19 23:58:18"
     },
     {
       "nome": "Canale degli Alberghi",
@@ -4620,7 +4620,7 @@
         "https://www.cicarudeclan.com/galleria/Alberghi03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:58"
+      "scraped_at": "2026-09-19 23:58:18"
     },
     {
       "nome": "Marmitte dei Giganti (Fosso dell'Anguillaia)",
@@ -4648,7 +4648,7 @@
         "https://www.cicarudeclan.com/galleria/MarmitteGiganti03.JPG"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:59"
+      "scraped_at": "2026-09-19 23:58:18"
     },
     {
       "nome": "Forra del Casco",
@@ -4675,7 +4675,7 @@
         "https://www.cicarudeclan.com/galleria/casco02.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:59"
+      "scraped_at": "2026-09-19 23:58:19"
     },
     {
       "nome": "Forra di Prodo",
@@ -4702,7 +4702,7 @@
         "https://www.cicarudeclan.com/galleria/prodo02.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:00:59"
+      "scraped_at": "2026-09-19 23:58:19"
     },
     {
       "nome": "Fosso de Presale",
@@ -4726,7 +4726,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:00"
+      "scraped_at": "2026-09-19 23:58:19"
     },
     {
       "nome": "Fosso La Foce",
@@ -4754,7 +4754,7 @@
         "https://www.cicarudeclan.com/galleria/Foce03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:00"
+      "scraped_at": "2026-09-19 23:58:20"
     },
     {
       "nome": "Fossaceca",
@@ -4781,7 +4781,7 @@
         "https://www.cicarudeclan.com/galleria/Fossaceca02.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:00"
+      "scraped_at": "2026-09-19 23:58:20"
     },
     {
       "nome": "San Nicola",
@@ -4807,7 +4807,7 @@
         "https://www.cicarudeclan.com/galleria/nicola01.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:01"
+      "scraped_at": "2026-09-19 23:58:20"
     },
     {
       "nome": "Forra di Pescorosso",
@@ -4831,7 +4831,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:01"
+      "scraped_at": "2026-09-19 23:58:21"
     },
     {
       "nome": "Forra del Titerno",
@@ -4857,7 +4857,7 @@
         "https://www.cicarudeclan.com/galleria/titerno01.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:01"
+      "scraped_at": "2026-09-19 23:58:21"
     },
     {
       "nome": "Valle dell'Inferno",
@@ -4881,7 +4881,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:02"
+      "scraped_at": "2026-09-19 23:58:21"
     },
     {
       "nome": "Gole del Caldanello",
@@ -4911,7 +4911,7 @@
         "https://www.cicarudeclan.com/galleria/Caldanello05.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:02"
+      "scraped_at": "2026-09-19 23:58:22"
     },
     {
       "nome": "Torrente Grimavolo",
@@ -4941,7 +4941,7 @@
         "https://www.cicarudeclan.com/galleria/Grimavolo05.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:03"
+      "scraped_at": "2026-09-19 23:58:22"
     },
     {
       "nome": "Badde Pentumas",
@@ -4969,7 +4969,7 @@
         "https://www.cicarudeclan.com/galleria/BaddePentumas03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:03"
+      "scraped_at": "2026-09-19 23:58:22"
     },
     {
       "nome": "Codula di Orbisi",
@@ -4997,7 +4997,7 @@
         "https://www.cicarudeclan.com/galleria/Orbisi01.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:03"
+      "scraped_at": "2026-09-19 23:58:23"
     },
     {
       "nome": "Codula Fuili",
@@ -5025,7 +5025,7 @@
         "https://www.cicarudeclan.com/galleria/Fuili03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:04"
+      "scraped_at": "2026-09-19 23:58:23"
     },
     {
       "nome": "Gola di Gorroppu",
@@ -5049,7 +5049,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:04"
+      "scraped_at": "2026-09-19 23:58:23"
     },
     {
       "nome": "Grotta Donini",
@@ -5075,7 +5075,7 @@
         "https://www.cicarudeclan.com/galleria/Donini01.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:04"
+      "scraped_at": "2026-09-19 23:58:24"
     },
     {
       "nome": "Rio Flumineddu",
@@ -5103,7 +5103,7 @@
         "https://www.cicarudeclan.com/galleria/Flumineddu03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:05"
+      "scraped_at": "2026-09-19 23:58:24"
     },
     {
       "nome": "Bacu sa Figu",
@@ -5133,7 +5133,7 @@
         "https://www.cicarudeclan.com/galleria/BacuSaFigu05.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:05"
+      "scraped_at": "2026-09-19 23:58:25"
     },
     {
       "nome": "Rio Pitrisconi",
@@ -5161,7 +5161,7 @@
         "https://www.cicarudeclan.com/galleria/Pitrisconi03.JPG"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:05"
+      "scraped_at": "2026-09-19 23:58:25"
     },
     {
       "nome": "Piscina Irgas",
@@ -5189,7 +5189,7 @@
         "https://www.cicarudeclan.com/galleria/Irgas03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:06"
+      "scraped_at": "2026-09-19 23:58:25"
     },
     {
       "nome": "Cica Rude Clan - Clue de la Maglia",
@@ -5217,7 +5217,7 @@
         "https://www.cicarudeclan.com/galleria/Maglia03.jpg"
       ],
       "kmz_url": "https://www.cicarudeclan.com/GEarth/Maglia.kmz",
-      "scraped_at": "2026-09-20 00:01:06"
+      "scraped_at": "2026-09-19 23:58:26"
     },
     {
       "nome": "Cica Rude Clan - Clue de la Morghe",
@@ -5241,7 +5241,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": "https://www.cicarudeclan.com/GEarth/Morghe.kmz",
-      "scraped_at": "2026-09-20 00:01:07"
+      "scraped_at": "2026-09-19 23:58:26"
     },
     {
       "nome": "Cica Rude Clan - Vallon de Carleva",
@@ -5265,7 +5265,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": "https://www.cicarudeclan.com/GEarth/Carleva.kmz",
-      "scraped_at": "2026-09-20 00:01:07"
+      "scraped_at": "2026-09-19 23:58:27"
     },
     {
       "nome": "Cica Rude Clan - Vallon de Audin",
@@ -5293,7 +5293,7 @@
         "https://www.cicarudeclan.com/galleria/Audin03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:07"
+      "scraped_at": "2026-09-19 23:58:27"
     },
     {
       "nome": "Cica Rude Clan - Vallon de la Bendola",
@@ -5321,7 +5321,7 @@
         "https://www.cicarudeclan.com/galleria/bendola03.jpg"
       ],
       "kmz_url": "https://www.cicarudeclan.com/GEarth/Bendola.kmz",
-      "scraped_at": "2026-09-20 00:01:08"
+      "scraped_at": "2026-09-19 23:58:27"
     },
     {
       "nome": "Vallon de Grana",
@@ -5349,7 +5349,7 @@
         "https://www.cicarudeclan.com/galleria/Grana03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:08"
+      "scraped_at": "2026-09-19 23:58:28"
     },
     {
       "nome": "Vallon de Bolega",
@@ -5373,7 +5373,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:09"
+      "scraped_at": "2026-09-19 23:58:28"
     },
     {
       "nome": "Vallon de Brever",
@@ -5397,7 +5397,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:09"
+      "scraped_at": "2026-09-19 23:58:29"
     },
     {
       "nome": "Vallon de Graon",
@@ -5421,7 +5421,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:09"
+      "scraped_at": "2026-09-19 23:58:29"
     },
     {
       "nome": "Cica Rude Clan - Torrent de Ceva",
@@ -5447,7 +5447,7 @@
         "https://www.cicarudeclan.com/galleria/Ceva01.jpg"
       ],
       "kmz_url": "https://www.cicarudeclan.com/GEarth/Ceva.kmz",
-      "scraped_at": "2026-09-20 00:01:10"
+      "scraped_at": "2026-09-19 23:58:29"
     },
     {
       "nome": "Cica Rude Clan - Clue de la Maglia",
@@ -5471,7 +5471,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:10"
+      "scraped_at": "2026-09-19 23:58:30"
     },
     {
       "nome": "Vallon de Morignole",
@@ -5497,7 +5497,7 @@
         "https://www.cicarudeclan.com/galleria/morignole01.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:10"
+      "scraped_at": "2026-09-19 23:58:30"
     },
     {
       "nome": "Vallon de Rouéou",
@@ -5521,7 +5521,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:11"
+      "scraped_at": "2026-09-19 23:58:31"
     },
     {
       "nome": "Vallon de Mont Noir",
@@ -5545,7 +5545,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:11"
+      "scraped_at": "2026-09-19 23:58:31"
     },
     {
       "nome": "Imberguet",
@@ -5575,7 +5575,7 @@
         "https://www.cicarudeclan.com/galleria/imberguet05.jpg"
       ],
       "kmz_url": "https://www.cicarudeclan.com/GEarth/Imberguet.kmz",
-      "scraped_at": "2026-09-20 00:01:11"
+      "scraped_at": "2026-09-19 23:58:31"
     },
     {
       "nome": "- Clue de Duranus",
@@ -5599,7 +5599,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:12"
+      "scraped_at": "2026-09-19 23:58:32"
     },
     {
       "nome": "- Vallon de la Peira",
@@ -5627,7 +5627,7 @@
         "https://www.cicarudeclan.com/galleria/Peira03.jpg"
       ],
       "kmz_url": "https://www.cicarudeclan.com/GEarth/Peira.kmz",
-      "scraped_at": "2026-09-20 00:01:12"
+      "scraped_at": "2026-09-19 23:58:32"
     },
     {
       "nome": "La Bollène",
@@ -5654,7 +5654,7 @@
         "https://www.cicarudeclan.com/galleria/Bollene02.jpg"
       ],
       "kmz_url": "https://www.cicarudeclan.com/GEarth/Bollene.kmz",
-      "scraped_at": "2026-09-20 00:01:12"
+      "scraped_at": "2026-09-19 23:58:32"
     },
     {
       "nome": "Clue de l'Infernet",
@@ -5678,7 +5678,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:13"
+      "scraped_at": "2026-09-19 23:58:33"
     },
     {
       "nome": "Vallon du Bagnolar",
@@ -5706,7 +5706,7 @@
         "https://www.cicarudeclan.com/galleria/Bagnolar03.jpg"
       ],
       "kmz_url": "https://www.cicarudeclan.com/GEarth/Bagnolar.kmz",
-      "scraped_at": "2026-09-20 00:01:13"
+      "scraped_at": "2026-09-19 23:58:33"
     },
     {
       "nome": "Vallon du Figaret",
@@ -5730,7 +5730,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:13"
+      "scraped_at": "2026-09-19 23:58:33"
     },
     {
       "nome": "Clue d'Amen",
@@ -5760,7 +5760,7 @@
         "https://www.cicarudeclan.com/galleria/Amen05.jpg"
       ],
       "kmz_url": "https://www.cicarudeclan.com/GEarth/Clue d'Amen.kmz",
-      "scraped_at": "2026-09-20 00:01:14"
+      "scraped_at": "2026-09-19 23:58:34"
     },
     {
       "nome": "Gorges de la Roudoule",
@@ -5784,7 +5784,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:14"
+      "scraped_at": "2026-09-19 23:58:34"
     },
     {
       "nome": "Gorges de Daluis",
@@ -5808,7 +5808,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:14"
+      "scraped_at": "2026-09-19 23:58:34"
     },
     {
       "nome": "Vallon de la Balma",
@@ -5834,7 +5834,7 @@
         "https://www.cicarudeclan.com/galleria/Balma01.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:15"
+      "scraped_at": "2026-09-19 23:58:35"
     },
     {
       "nome": "Clue du Chaudan",
@@ -5861,7 +5861,7 @@
         "https://www.cicarudeclan.com/galleria/chaudan02.jpg"
       ],
       "kmz_url": "https://www.cicarudeclan.com/GEarth/Clue du Chaudan.kmz",
-      "scraped_at": "2026-09-20 00:01:15"
+      "scraped_at": "2026-09-19 23:58:35"
     },
     {
       "nome": "Moulin de Roubion",
@@ -5885,7 +5885,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": "https://www.cicarudeclan.com/GEarth/Moulin de Rubion.kmz",
-      "scraped_at": "2026-09-20 00:01:16"
+      "scraped_at": "2026-09-19 23:58:35"
     },
     {
       "nome": "Cascades de Louch",
@@ -5914,7 +5914,7 @@
         "https://www.cicarudeclan.com/galleria/Louch04.jpg"
       ],
       "kmz_url": "https://www.cicarudeclan.com/GEarth/Louch.kmz",
-      "scraped_at": "2026-09-20 00:01:16"
+      "scraped_at": "2026-09-19 23:58:36"
     },
     {
       "nome": "Riou Blanc",
@@ -5942,7 +5942,7 @@
         "https://www.cicarudeclan.com/galleria/Blanc03.JPG"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:16"
+      "scraped_at": "2026-09-19 23:58:36"
     },
     {
       "nome": "Vallon de Cramassouri",
@@ -5972,7 +5972,7 @@
         "https://www.cicarudeclan.com/galleria/Cramassouri05.jpg"
       ],
       "kmz_url": "https://www.cicarudeclan.com/GEarth/Cramassouri.kmz",
-      "scraped_at": "2026-09-20 00:01:17"
+      "scraped_at": "2026-09-19 23:58:37"
     },
     {
       "nome": "Moulin d'Ilonse",
@@ -5999,7 +5999,7 @@
         "https://www.cicarudeclan.com/galleria/Teyss02.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:17"
+      "scraped_at": "2026-09-19 23:58:37"
     },
     {
       "nome": "Clue du Riolan",
@@ -6027,7 +6027,7 @@
         "https://www.cicarudeclan.com/galleria/riolan03.jpg"
       ],
       "kmz_url": "https://www.cicarudeclan.com/GEarth/Clue du Riolan.kmz",
-      "scraped_at": "2026-09-20 00:01:17"
+      "scraped_at": "2026-09-19 23:58:37"
     },
     {
       "nome": "Clue de Saint Auban",
@@ -6051,7 +6051,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:18"
+      "scraped_at": "2026-09-19 23:58:38"
     },
     {
       "nome": "Clue d'Aiglun",
@@ -6077,7 +6077,7 @@
         "https://www.cicarudeclan.com/galleria/Aiglun01.jpg"
       ],
       "kmz_url": "https://www.cicarudeclan.com/GEarth/Clue d'Aiglun.kmz",
-      "scraped_at": "2026-09-20 00:01:18"
+      "scraped_at": "2026-09-19 23:58:38"
     },
     {
       "nome": "Riou de Pierrefeu",
@@ -6101,7 +6101,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:18"
+      "scraped_at": "2026-09-19 23:58:38"
     },
     {
       "nome": "Ruisseau de Latti",
@@ -6129,7 +6129,7 @@
         "https://www.cicarudeclan.com/galleria/Latti03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:19"
+      "scraped_at": "2026-09-19 23:58:39"
     },
     {
       "nome": "Clue du Raton",
@@ -6159,7 +6159,7 @@
         "https://www.cicarudeclan.com/galleria/Raton05.jpg"
       ],
       "kmz_url": "https://www.cicarudeclan.com/GEarth/Cue du Raton.kmz",
-      "scraped_at": "2026-09-20 00:01:19"
+      "scraped_at": "2026-09-19 23:58:39"
     },
     {
       "nome": "Vallon de Challandre",
@@ -6189,7 +6189,7 @@
         "https://www.cicarudeclan.com/galleria/Challandre05.jpg"
       ],
       "kmz_url": "https://www.cicarudeclan.com/GEarth/Challandre.kmz",
-      "scraped_at": "2026-09-20 00:01:19"
+      "scraped_at": "2026-09-19 23:58:39"
     },
     {
       "nome": "Riu de Pierlas",
@@ -6213,7 +6213,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:20"
+      "scraped_at": "2026-09-19 23:58:40"
     },
     {
       "nome": "Vallon des Bes-Courmes",
@@ -6240,7 +6240,7 @@
         "https://www.cicarudeclan.com/galleria/BesCourmes02.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:20"
+      "scraped_at": "2026-09-19 23:58:40"
     },
     {
       "nome": "Riou de Gourdon",
@@ -6268,7 +6268,7 @@
         "https://www.cicarudeclan.com/galleria/Gourdon03.JPG"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:20"
+      "scraped_at": "2026-09-19 23:58:40"
     },
     {
       "nome": "Ruisseau de Planfaè",
@@ -6295,7 +6295,7 @@
         "https://www.cicarudeclan.com/galleria/Planfae02.jpg"
       ],
       "kmz_url": "https://www.cicarudeclan.com/GEarth/Planfae.kmz",
-      "scraped_at": "2026-09-20 00:01:21"
+      "scraped_at": "2026-09-19 23:58:41"
     },
     {
       "nome": "Vallon de Redebraus",
@@ -6325,7 +6325,7 @@
         "https://www.cicarudeclan.com/galleria/Redebraus05.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:21"
+      "scraped_at": "2026-09-19 23:58:41"
     },
     {
       "nome": "Ruisseau de Faea",
@@ -6353,7 +6353,7 @@
         "https://www.cicarudeclan.com/galleria/Faea03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:21"
+      "scraped_at": "2026-09-19 23:58:41"
     },
     {
       "nome": "Le Cuous",
@@ -6381,7 +6381,7 @@
         "https://www.cicarudeclan.com/galleria/Cuous03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:22"
+      "scraped_at": "2026-09-19 23:58:42"
     },
     {
       "nome": "Vallon de Guiou",
@@ -6409,7 +6409,7 @@
         "https://www.cicarudeclan.com/galleria/Guiou03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:22"
+      "scraped_at": "2026-09-19 23:58:42"
     },
     {
       "nome": "Vallon de la Réoune",
@@ -6436,7 +6436,7 @@
         "https://www.cicarudeclan.com/galleria/Reoune02.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:22"
+      "scraped_at": "2026-09-19 23:58:42"
     },
     {
       "nome": "Clue de Riou",
@@ -6464,7 +6464,7 @@
         "https://www.cicarudeclan.com/galleria/Riou03.jpg"
       ],
       "kmz_url": "https://www.cicarudeclan.com/GEarth/Le Riou.kmz",
-      "scraped_at": "2026-09-20 00:01:23"
+      "scraped_at": "2026-09-19 23:58:43"
     },
     {
       "nome": "Ravin de Mainmorte",
@@ -6493,7 +6493,7 @@
         "https://www.cicarudeclan.com/galleria/Mainmorte04.jpg"
       ],
       "kmz_url": "https://www.cicarudeclan.com/GEarth/Ravin de Mainmorte.kmz",
-      "scraped_at": "2026-09-20 00:01:23"
+      "scraped_at": "2026-09-19 23:58:43"
     },
     {
       "nome": "Val d'Angouire",
@@ -6521,7 +6521,7 @@
         "https://www.cicarudeclan.com/galleria/Angouire03.jpg"
       ],
       "kmz_url": "https://www.cicarudeclan.com/GEarth/Val d'Angouire.kmz",
-      "scraped_at": "2026-09-20 00:01:23"
+      "scraped_at": "2026-09-19 23:58:44"
     },
     {
       "nome": "Ravin de Cabrielle",
@@ -6547,7 +6547,7 @@
         "https://www.cicarudeclan.com/galleria/cabrielle01.jpg"
       ],
       "kmz_url": "https://www.cicarudeclan.com/GEarth/Ravin de Cabrielle.kmz",
-      "scraped_at": "2026-09-20 00:01:24"
+      "scraped_at": "2026-09-19 23:58:44"
     },
     {
       "nome": "Clue d'Haut Jabron",
@@ -6573,7 +6573,7 @@
         "https://www.cicarudeclan.com/galleria/Jabron01.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:24"
+      "scraped_at": "2026-09-19 23:58:44"
     },
     {
       "nome": "Clue de Taulanne",
@@ -6597,7 +6597,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:25"
+      "scraped_at": "2026-09-19 23:58:45"
     },
     {
       "nome": "Gorges de St. Pierre",
@@ -6621,7 +6621,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:25"
+      "scraped_at": "2026-09-19 23:58:45"
     },
     {
       "nome": "Cascades de Rest",
@@ -6650,7 +6650,7 @@
         "https://www.cicarudeclan.com/galleria/Rest04.jpg"
       ],
       "kmz_url": "https://www.cicarudeclan.com/GEarth/Cascades de Rest.kmz",
-      "scraped_at": "2026-09-20 00:01:25"
+      "scraped_at": "2026-09-19 23:58:45"
     },
     {
       "nome": "Ravine de Gimette",
@@ -6674,7 +6674,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": "https://www.cicarudeclan.com/GEarth/Torrent de Gimette.kmz",
-      "scraped_at": "2026-09-20 00:01:26"
+      "scraped_at": "2026-09-19 23:58:46"
     },
     {
       "nome": "Ravin des Enfers",
@@ -6704,7 +6704,7 @@
         "https://www.cicarudeclan.com/galleria/Enfers05.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:26"
+      "scraped_at": "2026-09-19 23:58:46"
     },
     {
       "nome": "Rio Sourd",
@@ -6728,7 +6728,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:26"
+      "scraped_at": "2026-09-19 23:58:46"
     },
     {
       "nome": "Canyon des Ecouges",
@@ -6757,7 +6757,7 @@
         "https://www.cicarudeclan.com/galleria/Ecouges04.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:27"
+      "scraped_at": "2026-09-19 23:58:47"
     },
     {
       "nome": "La Pissarde",
@@ -6785,7 +6785,7 @@
         "https://www.cicarudeclan.com/galleria/Pissarde04.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:27"
+      "scraped_at": "2026-09-19 23:58:47"
     },
     {
       "nome": "Canyon du Furon",
@@ -6809,7 +6809,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:27"
+      "scraped_at": "2026-09-19 23:58:47"
     },
     {
       "nome": "Ruisseau de l'Alloix",
@@ -6833,7 +6833,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:28"
+      "scraped_at": "2026-09-19 23:58:48"
     },
     {
       "nome": "Infernet (La Vence)",
@@ -6857,7 +6857,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:28"
+      "scraped_at": "2026-09-19 23:58:48"
     },
     {
       "nome": "Les Oules des Freissinières",
@@ -6888,7 +6888,7 @@
         "https://www.cicarudeclan.com/galleria/Freissinieres06.jpg"
       ],
       "kmz_url": "https://www.cicarudeclan.com/GEarth/Les oules de Freissinieres.kmz",
-      "scraped_at": "2026-09-20 00:01:29"
+      "scraped_at": "2026-09-19 23:58:48"
     },
     {
       "nome": "Torrent de Chichin (Dormillouse)",
@@ -6912,7 +6912,7 @@
       "note": "pare che esistano alcuni metodi empirici per valutare la portata. Il più affidabile sembra essere quello di osservare la cascata finale: la forra è percorribile se il getto è diviso in due dal cosidetto \"geyser\" ed interamente convogliato in riva sinistra, lasciando scoperto un tratto di parete in riva destra.\n\nPer informazioni sempre aggiornate su questo torrente consigliamo il bel sitoMontagne Virtuel(in francese).",
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:29"
+      "scraped_at": "2026-09-19 23:58:49"
     },
     {
       "nome": "Male Vesse (parte bassa)",
@@ -6942,7 +6942,7 @@
         "https://www.cicarudeclan.com/galleria/malevesseaval05.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:29"
+      "scraped_at": "2026-09-19 23:58:49"
     },
     {
       "nome": "LLech (Cascades de la Fous)",
@@ -6970,7 +6970,7 @@
         "https://www.cicarudeclan.com/galleria/LLech07.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:30"
+      "scraped_at": "2026-09-19 23:58:49"
     },
     {
       "nome": "Cuenca del Rio Vero",
@@ -6997,7 +6997,7 @@
         "https://www.cicarudeclan.com/galleria/RioVero02.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:30"
+      "scraped_at": "2026-09-19 23:58:50"
     },
     {
       "nome": "Barranco del Mascun",
@@ -7029,7 +7029,7 @@
         "https://www.cicarudeclan.com/galleria/Mascun07.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:31"
+      "scraped_at": "2026-09-19 23:58:50"
     },
     {
       "nome": "Gorgas Negras",
@@ -7057,7 +7057,7 @@
         "https://www.cicarudeclan.com/galleria/GorgasNegras10.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:31"
+      "scraped_at": "2026-09-19 23:58:51"
     },
     {
       "nome": "Rio Formiga",
@@ -7086,7 +7086,7 @@
         "https://www.cicarudeclan.com/galleria/Formiga04.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:31"
+      "scraped_at": "2026-09-19 23:58:51"
     },
     {
       "nome": "Barranco de Otin",
@@ -7115,7 +7115,7 @@
         "https://www.cicarudeclan.com/galleria/Otin04.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:32"
+      "scraped_at": "2026-09-19 23:58:52"
     },
     {
       "nome": "Cueva Cabritos",
@@ -7145,7 +7145,7 @@
         "https://www.cicarudeclan.com/galleria/Cabrito05.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:32"
+      "scraped_at": "2026-09-19 23:58:52"
     },
     {
       "nome": "Gorgonchon",
@@ -7174,7 +7174,7 @@
         "https://www.cicarudeclan.com/galleria/Gorgonchon04.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:33"
+      "scraped_at": "2026-09-19 23:58:52"
     },
     {
       "nome": "San Martin de la Cueva",
@@ -7198,7 +7198,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:33"
+      "scraped_at": "2026-09-19 23:58:53"
     },
     {
       "nome": "Estrechos de Balces",
@@ -7226,7 +7226,7 @@
         "https://www.cicarudeclan.com/galleria/Balces12.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:33"
+      "scraped_at": "2026-09-19 23:58:53"
     },
     {
       "nome": "Barrazil",
@@ -7252,7 +7252,7 @@
         "https://www.cicarudeclan.com/galleria/Barrazil36.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:34"
+      "scraped_at": "2026-09-19 23:58:53"
     },
     {
       "nome": "Furco",
@@ -7279,7 +7279,7 @@
         "https://www.cicarudeclan.com/galleria/Furco07.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:34"
+      "scraped_at": "2026-09-19 23:58:54"
     },
     {
       "nome": "Garganta de Miraval",
@@ -7307,7 +7307,7 @@
         "https://www.cicarudeclan.com/galleria/Miraval03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:34"
+      "scraped_at": "2026-09-19 23:58:54"
     },
     {
       "nome": "Cu du Mundu",
@@ -7335,7 +7335,7 @@
         "https://www.cicarudeclan.com/galleria/consusa03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:35"
+      "scraped_at": "2026-09-19 23:58:54"
     },
     {
       "nome": "Trasito inferior",
@@ -7362,7 +7362,7 @@
         "https://www.cicarudeclan.com/galleria/Trasitoinf07.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:35"
+      "scraped_at": "2026-09-19 23:58:55"
     },
     {
       "nome": "Cu du Mundu",
@@ -7390,7 +7390,7 @@
         "https://www.cicarudeclan.com/galleria/canal03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:35"
+      "scraped_at": "2026-09-19 23:58:55"
     },
     {
       "nome": "Gorg Blau y Sa Fosca",
@@ -7414,7 +7414,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:36"
+      "scraped_at": "2026-09-19 23:58:56"
     },
     {
       "nome": "Torrent de Valdemossa",
@@ -7438,7 +7438,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:36"
+      "scraped_at": "2026-09-19 23:58:56"
     },
     {
       "nome": "Torrent de Comafreda",
@@ -7462,7 +7462,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:37"
+      "scraped_at": "2026-09-19 23:58:56"
     },
     {
       "nome": "Frauenbach",
@@ -7486,7 +7486,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:37"
+      "scraped_at": "2026-09-19 23:58:57"
     },
     {
       "nome": "Silberbach",
@@ -7510,7 +7510,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:38"
+      "scraped_at": "2026-09-19 23:58:57"
     },
     {
       "nome": "Mauthernklamm",
@@ -7534,7 +7534,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:38"
+      "scraped_at": "2026-09-19 23:58:58"
     },
     {
       "nome": "Grabenbach",
@@ -7562,7 +7562,7 @@
         "https://www.cicarudeclan.com/galleria/Grabenbach03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:39"
+      "scraped_at": "2026-09-19 23:58:58"
     },
     {
       "nome": "Muhlbach",
@@ -7590,7 +7590,7 @@
         "https://www.cicarudeclan.com/galleria/Muhlbach03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:39"
+      "scraped_at": "2026-09-19 23:58:59"
     },
     {
       "nome": "Sahierbach",
@@ -7618,7 +7618,7 @@
         "https://www.cicarudeclan.com/galleria/Sahierbach03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:39"
+      "scraped_at": "2026-09-19 23:58:59"
     },
     {
       "nome": "Strubklamm",
@@ -7646,7 +7646,7 @@
         "https://www.cicarudeclan.com/galleria/Strubklamm03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:40"
+      "scraped_at": "2026-09-19 23:58:59"
     },
     {
       "nome": "Val Cresciano",
@@ -7674,7 +7674,7 @@
         "https://www.cicarudeclan.com/galleria/Cresciano04.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:40"
+      "scraped_at": "2026-09-19 23:59:00"
     },
     {
       "nome": "Riale di Iragna",
@@ -7698,7 +7698,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:41"
+      "scraped_at": "2026-09-19 23:59:00"
     },
     {
       "nome": "Val Combra",
@@ -7722,7 +7722,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:41"
+      "scraped_at": "2026-09-19 23:59:01"
     },
     {
       "nome": "Val D'Ambra Superiore",
@@ -7746,7 +7746,7 @@
       "note": "ad inizio stagione o dopo forti piogge il volume dacqua può essere proibitivo (il bacino di alimentazione della valle è molto grande). Usate il cervello!",
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:41"
+      "scraped_at": "2026-09-19 23:59:01"
     },
     {
       "nome": "Val Malvaglia Inferiore",
@@ -7770,7 +7770,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:42"
+      "scraped_at": "2026-09-19 23:59:01"
     },
     {
       "nome": "Val d'Osogna inferiore",
@@ -7798,7 +7798,7 @@
         "https://www.cicarudeclan.com/galleria/Osogna03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:42"
+      "scraped_at": "2026-09-19 23:59:02"
     },
     {
       "nome": "Corrego da Beira do Lombo Queimado (Jungle Rain)",
@@ -7826,7 +7826,7 @@
         "https://www.cicarudeclan.com/galleria/LomboQueimado03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:42"
+      "scraped_at": "2026-09-19 23:59:02"
     },
     {
       "nome": "Val Pontirone",
@@ -7854,7 +7854,7 @@
         "https://www.cicarudeclan.com/galleria/Pontirone03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:43"
+      "scraped_at": "2026-09-19 23:59:02"
     },
     {
       "nome": "Zwischbergen",
@@ -7878,7 +7878,7 @@
       "note": "è meglio\n    scendere durante la mattinata perché la gola ha un bacino di alimentazione molto vasto\n    che risente dello scioglimento delle nevi.",
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:43"
+      "scraped_at": "2026-09-19 23:59:03"
     },
     {
       "nome": "Mlinarica",
@@ -7906,7 +7906,7 @@
         "https://www.cicarudeclan.com/galleria/Mlinarica03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:44"
+      "scraped_at": "2026-09-19 23:59:03"
     },
     {
       "nome": "Gole della Vacca",
@@ -7930,7 +7930,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:44"
+      "scraped_at": "2026-09-19 23:59:04"
     },
     {
       "nome": "Ruisseau de Fiumicelli",
@@ -7956,7 +7956,7 @@
         "https://www.cicarudeclan.com/galleria/fiumicelli01.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:45"
+      "scraped_at": "2026-09-19 23:59:04"
     },
     {
       "nome": "Ciuffatu",
@@ -7984,7 +7984,7 @@
         "https://www.cicarudeclan.com/galleria/Ciuffatu03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:45"
+      "scraped_at": "2026-09-19 23:59:05"
     },
     {
       "nome": "Purcaraccia",
@@ -8012,7 +8012,7 @@
         "https://www.cicarudeclan.com/galleria/Purcaraccia03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:45"
+      "scraped_at": "2026-09-19 23:59:05"
     },
     {
       "nome": "Polischellu",
@@ -8040,7 +8040,7 @@
         "https://www.cicarudeclan.com/galleria/Polischellu03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:46"
+      "scraped_at": "2026-09-19 23:59:05"
     },
     {
       "nome": "Piscia di Gallu",
@@ -8067,7 +8067,7 @@
         "https://www.cicarudeclan.com/galleria/pisciagallu02.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:46"
+      "scraped_at": "2026-09-19 23:59:06"
     },
     {
       "nome": "A Richiusa",
@@ -8094,7 +8094,7 @@
         "https://www.cicarudeclan.com/galleria/richiusa02.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:47"
+      "scraped_at": "2026-09-19 23:59:06"
     },
     {
       "nome": "Baraci",
@@ -8121,7 +8121,7 @@
         "https://www.cicarudeclan.com/galleria/baraci02.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:47"
+      "scraped_at": "2026-09-19 23:59:07"
     },
     {
       "nome": "Ruisseau de Vivaggio",
@@ -8145,7 +8145,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:47"
+      "scraped_at": "2026-09-19 23:59:07"
     },
     {
       "nome": "Ziocu",
@@ -8173,7 +8173,7 @@
         "https://www.cicarudeclan.com/galleria/Ziocu10.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:48"
+      "scraped_at": "2026-09-19 23:59:07"
     },
     {
       "nome": "Ravin du Dardo",
@@ -8201,7 +8201,7 @@
         "https://www.cicarudeclan.com/galleria/Dardo08.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:48"
+      "scraped_at": "2026-09-19 23:59:08"
     },
     {
       "nome": "Ruisseau de Sulleoni",
@@ -8229,7 +8229,7 @@
         "https://www.cicarudeclan.com/galleria/Sulleoni20.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:48"
+      "scraped_at": "2026-09-19 23:59:08"
     },
     {
       "nome": "Ravin de Missoghju",
@@ -8257,7 +8257,7 @@
         "https://www.cicarudeclan.com/galleria/Missoghju03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:49"
+      "scraped_at": "2026-09-19 23:59:08"
     },
     {
       "nome": "Ruisseau de Catena",
@@ -8285,7 +8285,7 @@
         "https://www.cicarudeclan.com/galleria/Catena03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:49"
+      "scraped_at": "2026-09-19 23:59:09"
     },
     {
       "nome": "Ravin de Falconaia",
@@ -8313,7 +8313,7 @@
         "https://www.cicarudeclan.com/galleria/Falconaia03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:49"
+      "scraped_at": "2026-09-19 23:59:09"
     },
     {
       "nome": "Ruisseau de la Ruda",
@@ -8341,7 +8341,7 @@
         "https://www.cicarudeclan.com/galleria/Ruda03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:50"
+      "scraped_at": "2026-09-19 23:59:09"
     },
     {
       "nome": "Skurda Kanjon",
@@ -8369,7 +8369,7 @@
         "https://www.cicarudeclan.com/galleria/Skurda03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:50"
+      "scraped_at": "2026-09-19 23:59:10"
     },
     {
       "nome": "Jezerac",
@@ -8397,7 +8397,7 @@
         "https://www.cicarudeclan.com/galleria/Jezerac03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:51"
+      "scraped_at": "2026-09-19 23:59:10"
     },
     {
       "nome": "Suhodo",
@@ -8425,7 +8425,7 @@
         "https://www.cicarudeclan.com/galleria/Suhodo03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:51"
+      "scraped_at": "2026-09-19 23:59:11"
     },
     {
       "nome": "Nevidio",
@@ -8453,7 +8453,7 @@
         "https://www.cicarudeclan.com/galleria/Nevidio03.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:51"
+      "scraped_at": "2026-09-19 23:59:11"
     },
     {
       "nome": "Gorgopotamos",
@@ -8477,7 +8477,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:52"
+      "scraped_at": "2026-09-19 23:59:12"
     },
     {
       "nome": "Corrego da Beira do Lombo Queimado (Jungle Rain)",
@@ -8501,7 +8501,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:53"
+      "scraped_at": "2026-09-19 23:59:12"
     },
     {
       "nome": "Ribeira do Vimieiro (Canyon du Retour)",
@@ -8525,7 +8525,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:53"
+      "scraped_at": "2026-09-19 23:59:13"
     },
     {
       "nome": "Ferriere",
@@ -8549,7 +8549,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:54"
+      "scraped_at": "2026-09-19 23:59:13"
     },
     {
       "nome": "Fleurs Jaunes",
@@ -8575,7 +8575,7 @@
         "https://www.cicarudeclan.com/galleria/fleursjaunes01.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:54"
+      "scraped_at": "2026-09-19 23:59:14"
     },
     {
       "nome": "Bras Rouge",
@@ -8599,7 +8599,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:54"
+      "scraped_at": "2026-09-19 23:59:14"
     },
     {
       "nome": "Bras du Parc",
@@ -8623,7 +8623,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:55"
+      "scraped_at": "2026-09-19 23:59:14"
     },
     {
       "nome": "Grand Mère",
@@ -8647,7 +8647,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:55"
+      "scraped_at": "2026-09-19 23:59:15"
     },
     {
       "nome": "Cañon de la Marta",
@@ -8671,7 +8671,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:56"
+      "scraped_at": "2026-09-19 23:59:16"
     },
     {
       "nome": "Quebrada Ceciliana",
@@ -8695,7 +8695,7 @@
       "note": null,
       "foto_urls": [],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:56"
+      "scraped_at": "2026-09-19 23:59:16"
     },
     {
       "nome": "Lower Wadi Mujib",
@@ -8723,7 +8723,7 @@
         "https://www.cicarudeclan.com/galleria/Mujib057.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:57"
+      "scraped_at": "2026-09-19 23:59:17"
     },
     {
       "nome": "Jebel Khazali Siq",
@@ -8751,7 +8751,7 @@
         "https://www.cicarudeclan.com/galleria/Khazali185.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:58"
+      "scraped_at": "2026-09-19 23:59:17"
     },
     {
       "nome": "Snake Gorge (Wadi Bimah)",
@@ -8781,7 +8781,7 @@
         "https://www.cicarudeclan.com/galleria/Snake05.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:59"
+      "scraped_at": "2026-09-19 23:59:18"
     },
     {
       "nome": "Kaputas",
@@ -8811,7 +8811,7 @@
         "https://www.cicarudeclan.com/galleria/Kaputas05.jpg"
       ],
       "kmz_url": null,
-      "scraped_at": "2026-09-20 00:01:59"
+      "scraped_at": "2026-09-19 23:59:19"
     }
   ]
 }

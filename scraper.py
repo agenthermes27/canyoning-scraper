@@ -267,28 +267,71 @@ class CicaRudeScraper:
         
         # Parsia la pagina paese per estrarre regione per ogni link canyon
         # La pagina ha la stessa tabella ripetuta 4 volte - usiamo solo la PRIMA che ha region headers
+        # Colori header regione variano per paese: Italia=#3C7878, Francia=#143278, Spagna=#C8A014, etc.
         regione_per_link = {}
         target_table = None
+        
+        # Trova la prima tabella che contiene region headers (td con bgcolor e testo in grassetto)
         for table in soup.find_all('table'):
-            if table.find('td', bgcolor='#3C7878'):
-                target_table = table
+            for cell in table.find_all('td', bgcolor=True):
+                # Controlla se è un header regione: ha bgcolor e contiene testo in <b> o <font><b>
+                if cell.find(['b', 'strong']) or (cell.find('font') and cell.find('font').find('b')):
+                    target_table = table
+                    break
+            if target_table:
                 break
         
+        # Fallback: se non trova con grassetto, cerca td con bgcolor che non siano link
+        if not target_table:
+            for table in soup.find_all('table'):
+                for cell in table.find_all('td', bgcolor=True):
+                    text = cell.get_text(strip=True)
+                    if text and len(text) > 1 and not cell.find('a'):
+                        target_table = table
+                        break
+                if target_table:
+                    break
+        
         if target_table:
-            current_regione = ""
-            for row in target_table.find_all('tr'):
-                for cell in row.find_all(['td', 'th']):
-                    # Header regione
-                    if cell.get('bgcolor') == '#3C7878':
-                        current_regione = cell.get_text(strip=True)
-                    # Link canyon nella cella
-                    for link in cell.find_all('a', href=True):
-                        href = link['href']
-                        if href.startswith('a5_') and href.endswith('.htm'):
-                            link_name = link.get_text(strip=True)
-                            link_href = urljoin(country_url, href)
-                            if link_name and current_regione:
-                                regione_per_link[link_href] = current_regione
+            # Gestisci layout multi-riga multi-colonna (es. Francia, Spagna): 
+            # Header regioni in righe con valign="middle" definiscono regioni per colonna
+            # Data rows hanno valign="top" e seguono i header
+            
+            # Mappa colonna -> regione corrente
+            col_region_map = {}
+            
+            for row_idx, row in enumerate(target_table.find_all('tr')):
+                # Detecta se è una riga di header (valign="middle" o contiene <b> in td con bgcolor)
+                is_header_row = (
+                    row.get('valign') == 'middle' or
+                    any(cell.find(['b', 'strong']) for cell in row.find_all('td', bgcolor=True))
+                )
+                
+                cells = row.find_all(['td', 'th'])
+                
+                if is_header_row:
+                    # Aggiorna mappa colonna -> regione
+                    for col_idx, cell in enumerate(cells):
+                        if cell.get('bgcolor'):
+                            text = cell.get_text(strip=True)
+                            if text:
+                                col_region_map[col_idx] = text
+                else:
+                    # Riga dati: usa mappa colonna -> regione
+                    for col_idx, cell in enumerate(cells):
+                        # Header regione inline (per layout singolo come Italia)
+                        if cell.get('bgcolor'):
+                            current_regione = cell.get_text(strip=True)
+                        # Link canyon nella cella
+                        for link in cell.find_all('a', href=True):
+                            href = link['href']
+                            if href.startswith('a5_') and href.endswith('.htm'):
+                                link_name = link.get_text(strip=True)
+                                link_href = urljoin(country_url, href)
+                                # Usa regione dalla mappa colonna se disponibile
+                                regione = col_region_map.get(col_idx, current_regione if 'current_regione' in locals() else "")
+                                if link_name and regione:
+                                    regione_per_link[link_href] = regione
         
         canyons = []
         for name, link_url in tqdm(links, desc=f"  {country_name}", leave=False):
